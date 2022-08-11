@@ -40,4 +40,4 @@ datasets-PADEL.7z
 
 
 # Codes
-We provide pseudo-code for random node diffusion and training process, and the source code will be released upon acceptance.
+We provide pseudo-code for random 1-hop subgraph diffusion and PADEL's training pipline in ``PADEL_pseudo_code.pdf``, and the source code will be released upon acceptance.
