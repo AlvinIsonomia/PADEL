@@ -1,6 +1,5 @@
 # Position-Aware Subgraph Neural Networks with Data-Efficient Learning
-This paper is submitted to WSDM 2023, submission id is 
-
+This paper: Position-Aware Subgraph Neural Networks with Data-Efficient Learning, is submitted to WSDM 2023.
 # Dataset
 PADEL and baseline methods are implemented on the ``hpo_metab``, ``hpo_neuro``, and ``em_user`` datasets, firstly relsed by [SubGNN](https://www.dropbox.com/sh/zv7gw2bqzqev9yn/AACR9iR4Ok7f9x1fIAiVCdj3a?dl=0).
 We provide these datasets in different data-efficient situations:
