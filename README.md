@@ -1,4 +1,4 @@
-# PADEL
+# Position-Aware Subgraph Neural Networks with Data-Efficient Learning
 This paper is submitted to WSDM 2023, submission id is 
 
 # Dataset
